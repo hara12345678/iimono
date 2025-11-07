@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="nmea2kml Ver 0.30  By Fuhi  http://www.blue-sky.tw ">
+<metadata></metadata>
+  <rte>
+  <name>tobigasu2017050516</name>
+      <rtept lat="" lon="">
+        <ele></ele>
+        <time>20  -  -</time>
+        <course></course>
+        <speed>0.0</speed>
+        <sat>00</sat>
+        <hdop>0.0</hdop>
+        <name><![CDATA[1.[00:00:00](0.00Km)[0.00Km(h)]]]></name>
+        <cmt><![CDATA[(00/0.0)]]></cmt>
+        <extensions>
+        <kashmir3d:ident><![CDATA[1]]></kashmir3d:ident>
+        </extensions>
+      </rtept>
+  </rte>
+</gpx>
