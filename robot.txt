@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iimono.pages.dev/sitemap.xml
