@@ -792,10 +792,17 @@
   <loc>https://iimono.pages.dev/okashi/maniwaka.htm</loc>
   <priority>0.7</priority>
 </url>
+
 <url>
   <loc>https://iimono.pages.dev/kankou/mannkusenn.htm</loc>
-  <priority>0.7</priority>
 </url>
+<url>
+  <loc>https://iimono.pages.dev/kankou/mannkusenn1.htm</loc>
+</url>
+<url>
+  <loc>https://iimono.pages.dev/kankou/mannkusenn2.htm</loc>
+</url>
+
 <url>
   <loc>https://iimono.pages.dev/pan/sanmarino.htm</loc>
   <priority>0.7</priority>
@@ -3740,8 +3747,12 @@
 </url>
 <url>
   <loc>https://iimono.pages.dev/syokuji/chisyanoki.htm</loc>
-  <priority>0.7</priority>
 </url>
+
+<url>
+  <loc>https://iimono.pages.dev/syokuji/ro-dan.htm</loc>
+</url>
+
 <url>
   <loc>https://iimono.pages.dev/chiiki/aeonmallizumo.html</loc>
   <priority>0.7</priority>
@@ -3952,7 +3963,11 @@
 </url>
 
 <url>
-  <loc>https://iimono.pages.dev/kankou/katasegawa.html</loc>
+  <loc>https://iimono.pages.dev/kankou/takasegawa.htm</loc>
+</url>
+
+<url>
+  <loc>https://iimono.pages.dev/kankou/kyuutaisyaeki.htm</loc>
 </url>
 
 </urlset>
