@@ -2986,8 +2986,12 @@
 </url>
 <url>
   <loc>https://iimono.pages.dev/okashi/lasaison.htm</loc>
-  <priority>0.7</priority>
 </url>
+
+<url>
+  <loc>https://iimono.pages.dev/okashi/kekibiyori.htm</loc>
+</url>
+
 <url>
   <loc>https://iimono.pages.dev/okashi/tennshinokeki.htm</loc>
   <lastmod>2025-02-22</lastmod>
