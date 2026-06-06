@@ -43,11 +43,20 @@
   <loc>https://iimono.pages.dev/medaka/medaka.htm</loc>
   <priority>0.8</priority>
 </url>
+
 <url>
   <loc>https://iimono.pages.dev/mitsubachi/mitsubachi.htm</loc>
-  <lastmod>2025-07-29</lastmod>
-  <priority>0.8</priority>
 </url>
+<url>
+  <loc>https://iimono.pages.dev/mitsubachi/mitsubachi1.htm</loc>
+</url>
+<url>
+  <loc>https://iimono.pages.dev/mitsubachi/mitsubachi2.htm</loc>
+</url>
+<url>
+  <loc>https://iimono.pages.dev/mitsubachi/mitsubachi3.htm</loc>
+</url>
+
 <url>
   <loc>https://iimono.pages.dev/goro/geme/game.htm</loc>
   <priority>0.8</priority>
@@ -279,10 +288,15 @@
   <loc>https://iimono.pages.dev/kankou/kawatoeki.htm</loc>
   <priority>0.7</priority>
 </url>
+
 <url>
   <loc>https://iimono.pages.dev/kankou/kashimajinnjya.htm</loc>
-  <priority>0.7</priority>
 </url>
+
+<url>
+  <loc>https://iimono.pages.dev/kankou/karakamajinjya.htm</loc>
+</url>
+
 <url>
   <loc>https://iimono.pages.dev/kankou/kawatojinjya.htm</loc>
   <lastmod>2025-01-01</lastmod>
@@ -494,11 +508,17 @@
   <lastmod>2025-03-20</lastmod>
   <priority>0.7</priority>
 </url>
+
 <url>
   <loc>https://iimono.pages.dev/okashi/fuugetudou.htm</loc>
-  <lastmod>2025-03-17</lastmod>
-  <priority>0.7</priority>
 </url>
+<url>
+  <loc>https://iimono.pages.dev/okashi/fuugetudou1.htm</loc>
+</url>
+<url>
+  <loc>https://iimono.pages.dev/okashi/fuugetudou2.htm</loc>
+</url>
+
 <url>
   <loc>https://iimono.pages.dev/kankou/hiratahon.htm</loc>
   <lastmod>2024-09-01</lastmod>
