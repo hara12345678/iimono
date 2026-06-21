@@ -237,10 +237,14 @@
   <loc>https://iimono.pages.dev/okashi/linz.htm</loc>
   <priority>0.7</priority>
 </url>
+
 <url>
   <loc>https://iimono.pages.dev/okashi/ribido.htm</loc>
-  <priority>0.7</priority>
 </url>
+<url>
+  <loc>https://iimono.pages.dev/okashi/ribido1.htm</loc>
+</url>
+
 <url>
   <loc>https://iimono.pages.dev/kankou/imaoka.htm</loc>
   <priority>0.7</priority>
