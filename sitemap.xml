@@ -2038,8 +2038,11 @@
 </url>
 <url>
   <loc>https://iimono.pages.dev/hyougo/koubehokuseisyokusan.htm</loc>
-  <priority>0.7</priority>
 </url>
+<url>
+  <loc>https://iimono.pages.dev/hyougo/koubegosyoku.htm</loc>
+</url>
+
 <url>
   <loc>https://iimono.pages.dev/hyougo/itamikonishisyuzou.htm</loc>
   <priority>0.7</priority>
