@@ -2134,10 +2134,15 @@
   <lastmod>2024-09-22</lastmod>
   <priority>0.7</priority>
 </url>
+
 <url>
   <loc>https://iimono.pages.dev/kouchi/kouchinomura.htm</loc>
-  <priority>0.7</priority>
 </url>
+
+<url>
+  <loc>https://iimono.pages.dev/kouchi/takaokashibutasyokuhin.htm</loc>
+</url>
+
 <url>
   <loc>https://iimono.pages.dev/fukuoka/fukuokamarutai.htm</loc>
   <priority>0.7</priority>
@@ -2598,10 +2603,17 @@
   <loc>https://iimono.pages.dev/kankou/izumoya.htm</loc>
   <priority>0.7</priority>
 </url>
+
 <url>
   <loc>https://iimono.pages.dev/kankou/nimasando.htm</loc>
-  <priority>0.7</priority>
 </url>
+<url>
+  <loc>https://iimono.pages.dev/kankou/goisenima.htm</loc>
+</url>
+<url>
+  <loc>https://iimono.pages.dev/kankou/kotogahama.htm</loc>
+</url>
+
 <url>
   <loc>https://iimono.pages.dev/kankou/iwamiwainari.htm</loc>
   <priority>0.7</priority>
@@ -2942,11 +2954,17 @@
   <loc>https://iimono.pages.dev/okashi/saiunndou.htm</loc>
   <priority>0.7</priority>
 </url>
+
 <url>
   <loc>https://iimono.pages.dev/okashi/sakaneya.htm</loc>
-  <lastmod>2025-01-01</lastmod>
-  <priority>0.7</priority>
 </url>
+<url>
+  <loc>https://iimono.pages.dev/okashi/sakaneya1.htm</loc>
+</url>
+<url>
+  <loc>https://iimono.pages.dev/okashi/sakaneya2.htm</loc>
+</url>
+
 <url>
   <loc>https://iimono.pages.dev/okashi/sasaiyaidai.htm</loc>
   <priority>0.7</priority>
