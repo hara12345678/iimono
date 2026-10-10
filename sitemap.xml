@@ -953,10 +953,23 @@
   <loc>https://iimono.pages.dev/pan/imaduya.htm</loc>
   <priority>0.7</priority>
 </url>
+
 <url>
   <loc>https://iimono.pages.dev/kankou/hikamiseisyu.htm</loc>
-  <priority>0.7</priority>
 </url>
+<url>
+  <loc>https://iimono.pages.dev/kankou/hikamiseisyu1.htm</loc>
+</url>
+<url>
+  <loc>https://iimono.pages.dev/kankou/hikamiseisyu2.htm</loc>
+</url>
+<url>
+  <loc>https://iimono.pages.dev/kankou/hikamiseisyu3.htm</loc>
+</url>
+<url>
+  <loc>https://iimono.pages.dev/kankou/hikamiseisyu4.htm</loc>
+</url>
+
 <url>
   <loc>https://iimono.pages.dev/okashi/matsubaya.htm</loc>
   <priority>0.7</priority>
@@ -1001,10 +1014,15 @@
   <loc>https://iimono.pages.dev/okashi/kikkawaki.htm</loc>
   <priority>0.7</priority>
 </url>
+
 <url>
   <loc>https://iimono.pages.dev/pan/hatopoppo.htm</loc>
-  <priority>0.7</priority>
 </url>
+
+<url>
+  <loc>https://iimono.pages.dev/pan/pannkoujyouooda.htm</loc>
+</url>
+
 <url>
   <loc>https://iimono.pages.dev/okashi/sanneiyuka.htm</loc>
   <priority>0.7</priority>
@@ -3206,8 +3224,12 @@
 </url>
 <url>
   <loc>https://iimono.pages.dev/okashi/hachimitu.htm</loc>
-  <priority>0.7</priority>
 </url>
+
+<url>
+  <loc>https://iimono.pages.dev/okashi/sazanka.htm</loc>
+</url>
+
 <url>
   <loc>https://iimono.pages.dev/okashi/suekuniya.htm</loc>
   <priority>0.7</priority>
@@ -3777,7 +3799,9 @@
 </url>
 <url>
   <loc>https://iimono.pages.dev/syokuji/kikkawa.htm</loc>
-  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://iimono.pages.dev/syokuji/yumoto.htm</loc>
 </url>
 <url>
   <loc>https://iimono.pages.dev/syokuji/sanbebaga.htm</loc>
