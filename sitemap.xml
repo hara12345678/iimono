@@ -121,10 +121,17 @@
   <loc>https://iimono.pages.dev/pan/itagaki.htm</loc>
   <priority>0.7</priority>
 </url>
+
 <url>
   <loc>https://iimono.pages.dev/okashi/endoya.htm</loc>
-  <priority>0.7</priority>
 </url>
+<url>
+  <loc>https://iimono.pages.dev/okashi/endoya1.htm</loc>
+</url>
+<url>
+  <loc>https://iimono.pages.dev/okashi/endoya2.htm</loc>
+</url>
+
 <url>
   <loc>https://iimono.pages.dev/okashi/substance.htm</loc>
   <lastmod>2024-09-06</lastmod>
@@ -3857,7 +3864,9 @@
 </url>
 <url>
   <loc>https://iimono.pages.dev/chiiki/egikamabokoten.html</loc>
-  <priority>0.7</priority>
+</url>
+<url>
+  <loc>https://iimono.pages.dev/chiiki/tsuwabukinet.html</loc>
 </url>
 <url>
   <loc>https://iimono.pages.dev/chiiki/chiiki0.html</loc>
